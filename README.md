@@ -2,11 +2,13 @@
 
 I build on-premises and cloud projects in my spare time using Terraform, Docker, GitHub Actions, Amazon ECS, and CI/CD to deepen my understanding of how modern enterprise infrastructure is designed, automated, and operated. 
 
+```
 🔧 My Toolbox
 ☁️ Cloud & Infrastructure
 ☁️ AWS: EC2, ECS, RDS, S3, VPC, IAM
 🏗️ IaC: Terraform
 🐳 Containerization: Docker, ECS Fargate
+```
 
 <!--
 **awilali/awilali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
